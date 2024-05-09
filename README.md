@@ -16,7 +16,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkMortal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=012148B&icon_color=6FDA44&text_color=D3D3D3&bg_color=0,000000,130F40"></img>
 </div>-->
 # 📊 GitHub Stats:
-[![DarkMortal's GitHub | Stats](https://stats.quine.sh/Wriath18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
+[![Wriath18's GitHub | Stats](https://stats.quine.sh/Wriath18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
 [![DarkMortal's GitHub | Dependencies](https://stats.quine.sh/DarkMortal/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
