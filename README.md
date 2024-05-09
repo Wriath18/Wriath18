@@ -6,7 +6,7 @@
     <br/><img src="https://komarev.com/ghpvc/?username=DarkMortal&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" />
 </h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7D549&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Object+Oriented+Programming;Diffferential+Equations;Vector+Calculus;Statistics;Chess;Data+Structures;Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7D549&center=true&vCenter=true&width=435&lines=Machine+Learning+Developer;Object+Oriented+Programming;I+Do+Not+Like+Mathemtics;Vector+Calculus;Statistics;Python;Graphic+Designing" alt="Typing SVG" />
 </p>
 
 <!--<div align="center">
