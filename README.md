@@ -19,7 +19,7 @@
 [![Wriath18's GitHub | Stats](https://stats.quine.sh/Wriath18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
 [![Wriath18's GitHub | Languages Over Time](https://stats.quine.sh/Wriath18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=wriath18&show_icons=true&locale=en&layout=compact&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=wriath18&show_icons=true&locale=en)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkMortal&theme=github_dark)
 
 ## <picture><img src = "https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width = 50px></picture> **About me**
