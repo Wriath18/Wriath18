@@ -17,7 +17,7 @@
 </div>-->
 # 📊 GitHub Stats:
 [![Wriath18's GitHub | Stats](https://stats.quine.sh/Wriath18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
-[![DarkMortal's GitHub | Dependencies](https://stats.quine.sh/DarkMortal/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DarkMortal)
+[![Wriath18's GitHub | Languages Over Time](https://stats.quine.sh/Wriath18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkMortal&theme=github_dark)
