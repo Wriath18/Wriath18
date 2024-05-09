@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 [![Wriath18's GitHub | Stats](https://stats.quine.sh/Wriath18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
 [![Wriath18's GitHub | Languages Over Time](https://stats.quine.sh/Wriath18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Wriath18)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal&theme=github_dark)
+![]([http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkMortal](https://github-readme-stats.vercel.app/api/top-langs?username=wriath18&show_icons=true&locale=en&layout=compact&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkMortal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkMortal&theme=github_dark)
 
