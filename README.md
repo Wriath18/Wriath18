@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **machine learning projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Wriath18](https://github.com/Wriath18)
 
 - 📫 How to reach me **wriath18@gmail.com**
 
-- ⚡ Fun fact **I am pretty mysterious**
+- ⚡ Fun fact **I feel imposter syndrome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
