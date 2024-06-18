@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wriath18" alt="wriath18" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning and Gen Ai Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wriath18](https://github.com/Wriath18)
 
