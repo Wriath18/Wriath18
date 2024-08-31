@@ -1,4 +1,4 @@
-# Sanidhya Goel
+<h1 align="center> Sanidhya Goel</h1>
 
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Problem Solver</h3>
 
