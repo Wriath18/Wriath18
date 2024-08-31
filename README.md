@@ -1,4 +1,4 @@
-<h1 align="center> Sanidhya Goel</h1>
+<h1 align="center">Sanidhya Goel</h1>
 
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Problem Solver</h3>
 
@@ -16,9 +16,9 @@
 
 Passionate and innovative Machine Learning Engineer with a strong foundation in AI technologies and a proven track record of developing cutting-edge solutions. Adept at leveraging advanced ML techniques and big data technologies to drive business value and solve complex problems.
 
-## Professional Experience
+## Professional Odessy 📙💻
 
-### Machine Learning Engineer | Trubrix AI
+### Machine Learning Intern | Trubrix AI
 *July 2024 - Present*
 
 - Spearheaded the development of an advanced RAG (Retrieval-Augmented Generation) Application utilizing the Llama 3.1 70B LLM model, incorporating real-time internet search capabilities for enhanced data analytics on custom client datasets.
@@ -27,10 +27,10 @@ Passionate and innovative Machine Learning Engineer with a strong foundation in 
 
 ## Current Focus
 
-- 🔭 I'm currently working on **advanced Machine Learning and Generative AI projects**
+- 🔭 I'm currently working on **Advanced Machine Learning and Generative AI projects**
 - 🌱 I'm currently learning **Large Language Models (LLMs)**
 - 👨‍💻 All of my projects are available at [https://github.com/Wriath18](https://github.com/Wriath18)
-- 📫 How to reach me: **wriath18@gmail.com**
+- 📫 How to reach me: **sanidhyagoelgs@gmail.com@gmail.com**
 
 ## Connect with Me
 
