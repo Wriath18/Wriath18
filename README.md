@@ -26,7 +26,7 @@ Passionate and innovative Machine Learning Engineer with a strong foundation in 
 - 🔭 I'm currently working on **Advanced Machine Learning and Generative AI projects**
 - 🌱 I'm currently learning **Large Language Models (LLMs)**
 - 👨‍💻 All of my projects are available at [https://github.com/Wriath18](https://github.com/Wriath18)
-- 📫 How to reach me: **sanidhyagoelgs@gmail.com@gmail.com**
+- 📫 How to reach me: **sanidhyagoelgs@gmail.com**
 
 ## Connect with Me
 
