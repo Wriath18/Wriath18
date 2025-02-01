@@ -1,6 +1,6 @@
 <h1 align="center">Sanidhya Goel</h1>
 
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Ai and Backend Engineer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wriath18&label=Profile%20views&color=0e75b6&style=flat" alt="wriath18" />
@@ -8,14 +8,18 @@
 
 
 
-## Professional Summary
-
-Passionate and innovative Machine Learning Engineer with a strong foundation in AI technologies and a proven track record of developing cutting-edge solutions. Adept at leveraging advanced ML techniques and big data technologies to drive business value and solve complex problems.
-
 ## Professional Odessy 📙💻
 
+### Ai Intern | Bynd.Ai
+*Nov 2024 - Present*
+
+- Architected and deployed a comprehensive AI-driven alert platform for real-time market intelligence facilitating monitoring across 15+ data sources.
+-  Developed an end-to-end ETL pipeline, integrating diverse data sources and ensuring seamless data processing and transformation for downstream analytics and usage.
+- Optimized system latency by restructuring data flows and prompt engineering, reducing response by 65%, and cutting cost by 33%.
+- Demonstrated in-depth Azure and database expertise, covering serverless computing, VM provisioning, and data management to ensure scalable, resilient, and cost-effective deployments
+
 ### Machine Learning Intern | Trubrix AI
-*July 2024 - Present*
+*July 2024 - Nov 2024*
 
 - Spearheaded the development of an advanced RAG (Retrieval-Augmented Generation) Application utilizing the Llama 3.1 70B LLM model, incorporating real-time internet search capabilities for enhanced data analytics on custom client datasets.
 - Successfully fine-tuned the Databricks DBRX Instruct model on specialized data using PEFT (Parameter-Efficient Fine-Tuning) techniques and Databricks LLM endpoints, significantly improving model performance for client-specific tasks.
